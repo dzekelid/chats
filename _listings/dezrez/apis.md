@@ -26,6 +26,20 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/dezrez/apichatunreadsummary-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/dezrez/apichatunreadsummary-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Get a count of unread chat messages for the negotiator
+    plus a list of corresponding message id's which are unread.
+  x-api-slug: apichatunreadsummary-get
+  description: Get a count of unread chat messages for the negotiator plus a list
+    of corresponding message id's which are unread..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/dezrez/apichatunreadsummary-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/dezrez/apichatunreadsummary-get-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez
