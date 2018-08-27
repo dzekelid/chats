@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Chats
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/gig--crowd/apis.md
 specificationVersion: "0.14"
 apis:
@@ -84,6 +84,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/gig--crowd/apiv1messagechatspagenumbersearch-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/gig--crowd/apiv1messagechatspagenumbersearch-get-openapi.md
+- name: GIG & Crowd - Get Message Chat From
+  x-api-slug: apiv1messagechatidfrom-get
+  description: Get message chat from.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png
+  humanURL: https://gigandcrowd.com
+  baseURL: https://gigandcrowd.com//
+  tags: Events, Concerts, Entertainment, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/gig--crowd/apiv1messagechatidfrom-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/gig--crowd/apiv1messagechatidfrom-get-openapi.md
 x-common:
 - type: x-openapi
   url: https://gigandcrowd.com/swagger/docs/v1

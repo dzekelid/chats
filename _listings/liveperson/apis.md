@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/364-livepe
 x-kinRank: "8"
 x-alexaRank: "121478"
 tags: Chats
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/liveperson/apis.md
 specificationVersion: "0.14"
 apis: []

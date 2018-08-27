@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: New Relic
 x-complete: 1
@@ -57,4 +56,3 @@ paths:
       - Alerts
       - Channels.
       - Format
----

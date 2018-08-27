@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28213-itsa
 x-kinRank: "7"
 x-alexaRank: "527220"
 tags: Chats
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/itsalive/apis.md
 specificationVersion: "0.14"
 apis: []

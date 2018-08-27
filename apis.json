@@ -1,0 +1,508 @@
+{
+	"name": "Streadata.io API Gallery - Chats",
+	"description": "This is a repository of chats APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/chats.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://chats.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "QuickBlox",
+			"x-api-slug": "quickblox",
+			"description": "Quickblox ready-to-go modules add new functionality such as video calling, instant messaging and push notifications - all while reducing development time &",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/71-quickblox.jpg",
+			"humanURL": "http://quickblox.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/quickblox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Skype",
+			"x-api-slug": "skype",
+			"description": "Stay in touch! Free online calls, messaging, affordable international calling to mobiles or landlines and Skype for Business for effective collaboration.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/249-skype.jpg",
+			"humanURL": "https://developer.skype.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/skype/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TokBox",
+			"x-api-slug": "tokbox",
+			"description": "TokBox???s WebRTC platform, OpenTok, makes it possible to add live video, voice and messaging to websites, iOS, and Android apps. 30-day free trial.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/260-tokbox.jpg",
+			"humanURL": "http://www.tokbox.com",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/tokbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "agendize",
+			"x-api-slug": "agendize",
+			"description": "Agendize is the most complete customer engagement platform on the market, providing over 100,000 businesses with customizable ways to let their customers call, chat, book appointments and more.    As a leading provider of these solutions, Agendize has ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/322-agendize.jpg",
+			"humanURL": "http://www.agendize.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/agendize/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LivePerson",
+			"x-api-slug": "liveperson",
+			"description": "LivePerson transforms customer care at large brands, by moving analog voice calls to digital messaging and bots.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/364-liveperson.jpg",
+			"humanURL": "http://liveperson.com",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/liveperson/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FuzeBox",
+			"x-api-slug": "fuzebox",
+			"description": "Fuze is the Leader in Enterprise Global Voice, Video, Messaging, and Collaboration",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/598-fuzebox.jpg",
+			"humanURL": "https://www.fuze.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/fuzebox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Olark",
+			"x-api-slug": "olark",
+			"description": "Olark is a lightweight tool to chat with visitors to your website using your existing instant messaging client. Visitors to your website appear as buddies on your Buddy list, their messages to you appear as IMs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/631-olark-live-chat.jpg",
+			"humanURL": "http://www.olark.com/developer",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/olark/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Raydash",
+			"x-api-slug": "raydash",
+			"description": "",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.raydash.com",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/raydash/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flowdock",
+			"x-api-slug": "flowdock",
+			"description": "Teams using Flowdock stay up-to-date, react in seconds and never forget anything.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/789-flowdock.jpg",
+			"humanURL": "https://www.flowdock.com",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/flowdock/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mibbit",
+			"x-api-slug": "mibbit",
+			"description": "Mibbit is a fully featured IRC Client. Allowing you to interact realtime with your friends. Chat, play games, colaborate on projects together and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/846-mibbit.jpg",
+			"humanURL": "http://mibbit.com",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/mibbit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "nimbuzz",
+			"x-api-slug": "nimbuzz",
+			"description": "Get the latest, headlines, breaking, regional news fast. General News, World News, Technology News, Business News, Sports News, Entertainment News, Health News, Fashion News, Politics News, Education News, New and Knowledgeable Article.-English--United...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1099-nimbuzz.jpg",
+			"humanURL": "http://developers.nimbuzz.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/nimbuzz/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twelephone",
+			"x-api-slug": "twelephone",
+			"description": "",
+			"image": "",
+			"humanURL": "http://twelephone.com/#/api",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/twelephone/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Soundrop",
+			"x-api-slug": "soundrop",
+			"description": "License cover songs & video game music - Free music distribution for original songs across top platforms. Collaborator & royalty MGMT - No recurring fees!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1550-soundrop.jpg",
+			"humanURL": "http://soundrop.fm/partners/developers",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/soundrop/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SimSimi Conversation",
+			"x-api-slug": "simsimi-conversation",
+			"description": "Talk with SimSimi via Twitter @TalkWithSimSimi. For questions, e-mail us on support@simsimi.com",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1847-simsimi-conversation.jpg",
+			"humanURL": "http://developer.simsimi.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/simsimi-conversation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SignalTrigger",
+			"x-api-slug": "signaltrigger",
+			"description": "A simple API to send instant messages directly from your code. SignalTritter lets you send messages from your code to your instant messengers.",
+			"image": "",
+			"humanURL": "http://signaltrigger.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/signaltrigger/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "YouTube",
+			"x-api-slug": "youtube",
+			"description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg",
+			"humanURL": "https://www.youtube.com/",
+			"baseURL": "https://www.googleapis.com//youtube/v1",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Slack",
+			"x-api-slug": "slack",
+			"description": "Slack is a team communication application providing services such as real-time messaging, archiving, and to search for modern teams. It offers one-on-one messaging, private groups, persistent chat rooms, and direct messaging as well as group chats organized by topic. All content inside Slack is searchable from one search box and it integrates with a number of third-party services, including Google Docs, Dropbox, Heroku, Crashlytics, GitHub, and Zendesk.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/slack-logo.png",
+			"humanURL": "https://api.slack.com",
+			"baseURL": "https://slack.com//api",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/slack/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Snapchat",
+			"x-api-slug": "snapchat",
+			"description": "Snapchat is the fastest way to share a moment with friends. You control how long your friends can view your message &ndash; simply set the timer up to ten seconds and send. Theyll have that long to view your message and then it disappears forever. We&rsquo;ll let you know if they take a screenshot! Build relationships, collect points, and view your best friends. Snapchat is instantly fun and insanely playful. Show your friends how clever you can be and enjoy the lightness of being!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/snapchat-logo.png",
+			"humanURL": "https://www.snapchat.com/",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/snapchat/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "New Relic",
+			"x-api-slug": "new-relic",
+			"description": "New Relic???s digital intelligence platform lets developers, ops, and tech teams measure and monitor the performance of their applications and infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg",
+			"humanURL": "https://newrelic.com/",
+			"baseURL": "https:///v2/",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/new-relic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stride",
+			"x-api-slug": "stride",
+			"description": "Stride is a cloud-based team business communication and collaboration tool, launched by Atlassian to replace the cloud-based version of HipChat. Stride software is available to download onto computers running Windows, Mac or Linux, as well as Android, iOS smartphones, and tablets",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg",
+			"humanURL": "https://www.stride.com/",
+			"baseURL": "https://api.atlassian.com//",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/stride/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ItsAlive",
+			"x-api-slug": "itsalive",
+			"description": "Facebook ChatBot Creation Platform everyone can use. The tool that makes Facebook Chatbots easy and fast!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28213-itsalive.jpg",
+			"humanURL": "https://itsalive.io",
+			"baseURL": "https:///",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/itsalive/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LiveChat",
+			"x-api-slug": "livechat",
+			"description": "LiveChat is an offline customer service software with live support, help desk software, and web analytics capabilities.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg",
+			"humanURL": "https://www.livechatinc.com/",
+			"baseURL": "https://api.livechatinc.com//",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/livechat/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Chats",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Chats",
+	"include": [
+		{
+			"name": "QuickBlox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/quickblox/apis.yaml"
+		},
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "Skype",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/skype/apis.yaml"
+		},
+		{
+			"name": "TokBox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/tokbox/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "agendize",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/agendize/apis.yaml"
+		},
+		{
+			"name": "LivePerson",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/liveperson/apis.yaml"
+		},
+		{
+			"name": "FuzeBox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/fuzebox/apis.yaml"
+		},
+		{
+			"name": "Olark",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/olark/apis.yaml"
+		},
+		{
+			"name": "Raydash",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/raydash/apis.yaml"
+		},
+		{
+			"name": "Flowdock",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/flowdock/apis.yaml"
+		},
+		{
+			"name": "Mibbit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/mibbit/apis.yaml"
+		},
+		{
+			"name": "nimbuzz",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/nimbuzz/apis.yaml"
+		},
+		{
+			"name": "Twelephone",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/twelephone/apis.yaml"
+		},
+		{
+			"name": "Soundrop",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/soundrop/apis.yaml"
+		},
+		{
+			"name": "SimSimi Conversation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/simsimi-conversation/apis.yaml"
+		},
+		{
+			"name": "SignalTrigger",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/signaltrigger/apis.yaml"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/apis.yaml"
+		},
+		{
+			"name": "Slack",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/slack/apis.yaml"
+		},
+		{
+			"name": "Snapchat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/snapchat/apis.yaml"
+		},
+		{
+			"name": "New Relic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/new-relic/apis.yaml"
+		},
+		{
+			"name": "Stride",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/stride/apis.yaml"
+		},
+		{
+			"name": "ItsAlive",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/itsalive/apis.yaml"
+		},
+		{
+			"name": "LiveChat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/livechat/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/gig--crowd/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

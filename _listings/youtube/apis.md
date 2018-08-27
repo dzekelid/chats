@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-yout
 x-kinRank: "9"
 x-alexaRank: "2"
 tags: Chats
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,6 +26,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-delete-openapi.md
+- name: YouTube - Add Live Chat Bans
+  x-api-slug: livechatbans-post
+  description: Adds a new ban to the chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-post-openapi.md
 - name: YouTube - Delete Live Chat Messages
   x-api-slug: livechatmessages-delete
   description: Delete livechat messages
@@ -54,6 +66,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-get-openapi.md
+- name: YouTube - Add Live Chat Messages
+  x-api-slug: livechatmessages-post
+  description: Adds a message to a live chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-post-openapi.md
 - name: YouTube - Delete Live Chat Moderators
   x-api-slug: livechatmoderators-delete
   description: Delete livechat moderators
@@ -82,6 +106,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-get-openapi.md
+- name: YouTube - Add Live Chat Moderators
+  x-api-slug: livechatmoderators-post
+  description: Adds a new moderator for the chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-post-openapi.md
 - name: YouTube - Get Superchatevents
   x-api-slug: superchatevents-get
   description: Lists Super Chat events for a channel.
@@ -110,6 +146,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-delete-openapi.md
+- name: YouTube - Add Live Chat Bans
+  x-api-slug: livechatbans-post
+  description: Adds a new ban to the chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-post-openapi.md
 - name: YouTube - Delete Live Chat Messages
   x-api-slug: livechatmessages-delete
   description: Delete livechat messages
@@ -138,6 +186,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-get-openapi.md
+- name: YouTube - Add Live Chat Messages
+  x-api-slug: livechatmessages-post
+  description: Adds a message to a live chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-post-openapi.md
 - name: YouTube - Delete Live Chat Moderators
   x-api-slug: livechatmoderators-delete
   description: Delete livechat moderators
@@ -166,6 +226,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-get-openapi.md
+- name: YouTube - Add Live Chat Moderators
+  x-api-slug: livechatmoderators-post
+  description: Adds a new moderator for the chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-post-openapi.md
 - name: YouTube - Get Superchatevents
   x-api-slug: superchatevents-get
   description: Lists Super Chat events for a channel.
@@ -180,6 +252,126 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/superchatevents-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/superchatevents-get-openapi.md
+- name: YouTube - Get Superchatevents
+  x-api-slug: superchatevents-get
+  description: Lists Super Chat events for a channel.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/superchatevents-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/superchatevents-get-openapi.md
+- name: YouTube - Add Live Chat Moderators
+  x-api-slug: livechatmoderators-post
+  description: Adds a new moderator for the chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-post-openapi.md
+- name: YouTube - Get Live Chat Moderators
+  x-api-slug: livechatmoderators-get
+  description: Lists moderators for a live chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-get-openapi.md
+- name: YouTube - Delete Live Chat Moderators
+  x-api-slug: livechatmoderators-delete
+  description: Delete livechat moderators
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmoderators-delete-openapi.md
+- name: YouTube - Add Live Chat Messages
+  x-api-slug: livechatmessages-post
+  description: Adds a message to a live chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-post-openapi.md
+- name: YouTube - Get Live Chat Messages
+  x-api-slug: livechatmessages-get
+  description: Lists live chat messages for a specific chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-get-openapi.md
+- name: YouTube - Delete Live Chat Messages
+  x-api-slug: livechatmessages-delete
+  description: Delete livechat messages
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatmessages-delete-openapi.md
+- name: YouTube - Add Live Chat Bans
+  x-api-slug: livechatbans-post
+  description: Adds a new ban to the chat.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-post-openapi.md
+- name: YouTube - Delete Live Chat Bans
+  x-api-slug: livechatbans-delete
+  description: Delete livechat bans
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg
+  humanURL: https://www.youtube.com/
+  baseURL: https://www.googleapis.com//youtube/v1
+  tags: Videos, Google APIs, Stack Network, Stack, internet, Technology, Mobile, SaaS,
+    General Data, Relative Data, Service API, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/chats/master/_listings/youtube/livechatbans-delete-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://yelp.api.gallery.streamdata.io
